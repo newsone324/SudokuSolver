@@ -1,4 +1,6 @@
-
+/**
+ * This class
+ */
 public class Sudoku {
      public static void main(String[] args) {
        int[][] puzzle = Puzzle.createPuzzle();
