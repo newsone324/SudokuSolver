@@ -44,4 +44,11 @@ public static int[][] createPuzzle()
             }
         }
     }
+
+    public static Square setUpPuzzle(Puzzle puzzle)
+    {   
+        Square sudoku = new Square();
+        int i, j;
+        return sudoku;
+    }
 }
